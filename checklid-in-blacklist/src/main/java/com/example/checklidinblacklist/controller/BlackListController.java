@@ -16,10 +16,5 @@ public class BlackListController {
         responceFormResult.setMessage("form from blacklist microservise");
         return responceFormResult;
     }
-//
-//    @GetMapping("/test")
-//    public String getTest(String str) {
-//        return "string" + " " + str;
-//    }
 
 }
